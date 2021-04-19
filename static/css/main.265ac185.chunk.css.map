@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AACA,EACI,qBAAqB,CACrB,QAAQ,CACR,SAAW,CACX,qFACJ","file":"main.265ac185.chunk.css","sourcesContent":["\r\n*{\r\n    box-sizing:border-box;\r\n    margin:0;\r\n    padding : 0;\r\n    font-family:'Franklin Gothic Medium', 'Arial Narrow', 'Encode Sans Expanded', sans-serif ;\r\n}"]}
