@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\container",
+    "\\src\\container\\components",
+    "\\src\\container\\components\\Footer",
+    "\\src\\container\\components\\signin",
+    "\\src\\container\\pages"
+  ],
+  "SelectedNode": "\\src\\container\\components\\signin\\index.js",
+  "PreviewInSolutionExplorer": false
+}
