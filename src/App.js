@@ -5,12 +5,15 @@ import SignIn from './container/pages/SignIn';
 
 function App() {
     return (
+        <>
         <Router>
             <Switch>
                 <Route exact path="/" component={Home} />
                 <Route exact path="/signin" component={SignIn} />
             </Switch>
-         </Router>            
+         </Router> 
+        
+         </>           
   );
 }
 
