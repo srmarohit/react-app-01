@@ -1,7 +1,9 @@
 {
   "name": "app-04",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "homepage": "https://srmarohit.github.io/react-app-01",
+
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
@@ -17,7 +19,6 @@
     "styled-components": "^5.2.1",
     "web-vitals": "^1.1.1"
   },
-  "homepage": "https://srmarohit.github.io/react-app-01",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
